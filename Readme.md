@@ -46,8 +46,5 @@ You can download the dataset from Kaggle at: [IPL Dataset](https://bit.ly/34SRn3
 ## Conclusion:
 This project provides valuable insights into the performance of IPL teams and players, and it suggests which athletes would be ideal for product endorsements based on their success in the league.
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact:
-For any questions or feedback, feel free to contact me at [your-email@example.com].
+For any questions or feedback, feel free to contact me at sanacheema887@gmail.com.
